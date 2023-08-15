@@ -11,7 +11,7 @@ Onde utilizei alguns recursos como:
 - Eclipse
 
 
-## Instalação utilizando o Eclipse :hammer_and_wrench:
+## Instalação :hammer_and_wrench:
 
 1. Abra seu Eclipse
 2. 
