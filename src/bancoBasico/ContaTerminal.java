@@ -53,6 +53,8 @@ public class ContaTerminal {
 		System.out.println("Idade: " + idade);
 		System.out.println("Sexo: " + sexo);
 		System.out.println("Saldo: R$" + saldo);
+
+		sc.close();
 		
 	}
 
