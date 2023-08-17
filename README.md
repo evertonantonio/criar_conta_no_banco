@@ -31,7 +31,7 @@ Um pequeno projeto feito para o curso da DIO 'Projeto Base: Simulando Uma Conta 
 
 2. Importar o Projeto em um IDE:
 
-   2.1 a. Abra seu IDE e escolha a opção para importar um projeto existente.
+   2.1  Abra seu IDE e escolha a opção para importar um projeto existente.
 
    2.2 Selecione a pasta onde você clonou o projeto.
 
